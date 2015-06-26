@@ -1,0 +1,19 @@
+// Project Details
+
+-> E-shopping Website (electronics e-shopping portal)
+->
+
+->===================== Features =================
+
+
+-> All features that must be in an e-shopping site
+
+-> Chatting features with members
+
+-> Dashboard has charts (chart is drawn in html5 canvas) that indicates the orders and sell of each week, month and year
+
+-> CMS
+
+-> Admin
+->username test
+-> password test
